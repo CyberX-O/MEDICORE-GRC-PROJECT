@@ -74,7 +74,7 @@ Microsoft Excel, Power BI
 ---
 
 ## About
-Built as a practical GRC portfolio to demonstrate 
+I built this as a practical GRC portfolio to demonstrate 
 real-world information security governance, risk, 
 and compliance skills in a Nigerian healthcare 
 technology context.
